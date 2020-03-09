@@ -1,41 +1,42 @@
 ---
 # required metadata
-title: Opšta uredba o zaštiti ličnih podataka (GDPR)
+
+title: Opšta uredba o zaštiti podataka (GDPR)
 description: GDPR docs.microsoft.com.
 ms.topic: article
 layout: ContentPage
 ---
 
-# <a name="microsofts-gdpr-commitments-to-customers-of-our-generally-available-enterprise-software-products"></a>Microsoftove obaveze u skladu sa GDPR uredbom prema korisnicima opšte dostupnih korporativnih softverskih proizvoda
+# Obaveze korporacije Microsoft prema kupcima naših općenito dostupnih softverskih proizvoda za velike kompanije po osnovu GDPR-a
 
 **Uvod**
 
-Opšta uredba o zaštiti ličnih podataka Evropske unije (GDPR) postavlja novi globalni standard vezano za prava zaštite privatnosti, sigurnost informacija i pridržavanje propisa. Mi u Microsoftu smatramo da je privatnost jedno od osnovnih prava i da je GDPR važan iskorak u zaštiti i afirmaciji prava zaštite privatnosti pojedinaca.     
+Opšta uredba Evropske Unije o zaštiti podataka (GDPR) definiše novi nivo globalno, a vezano za prava privatnosti, sigurnost informacija i usklađenost. Korporacija Microsoft vjeruje da je privatnost fundamentalno pravo i da je GDPR važan korak naprijed u zaštiti i omogućavanju prava privatnosti pojedinaca.     
 
-Microsoft je predan pridržavanju odredbi GDPR uredbe, kao i pružanju palete proizvoda, funkcionalnosti, dokumentacije i resursa koji će podržati naše korisnike u ispunjavanju njihovih obaveza koje proizilaze iz GDPR uredbe. U nastavku slijedi opis Microsoftovih ugovornih obaveza prema korisnicima njegovih usluga vezano za lične podatke koji se prikupljaju u korporativnom softveru:
+Microsoft je posvećen svojoj vlastitoj usklađenosti sa GDPR-om kao i pružanju niza proizvoda, osobina, dokumentacije i resursa da bi naši kupci imali podršku kod ispunjavanja svojih obaveza vezanih za usklađenosti po osnovu GDPR-a. U nastavku je opis ugovornih obaveza korporacije Microsoft prema njenim kupcima koje se odnose na  podatke sakupljene iz softvera za velike kompanije:
 
-**Da li Microsoft preuzima obaveze prema svojim korisnicima vezano za GDPR uredbu?**
+**Da li Microsoft ispunjava obaveze prema svojim kupcima u vezi sa GDPR-om?**
 
-Da. GDPR uredba propisuje da rukovaoci podacima (npr. organizacije i razvojni inženjeri koji koriste Microsoftove korporativne usluge na mreži), isključivo koriste obrađivače podataka (npr. Microsoft) koji obrađuju lične podatke u ime rukovaoca podacima i pružaju zadovoljavajuće garancije o ispunjavanju ključnih zahtjeva GDPR uredbe. Microsoft je preduzeo proaktivan korak preuzimanja ovih obaveza prema svim korisnicima korporativnih usluga na mreži u okviru njihovih ugovora za pretplatu i prema korisnicima licenci u okviru njihovih ugovora za korištenje korporativnih usluga. Korisnici drugog opšte dostupnog korporativnog softvera koji licencira Microsoft ili njegova povezana društva takođe uživaju povlastice koje proizilaze iz Microsoftovih obaveza prema GDPR uredbi, kako je dato u ovom obavještenju, u mjeri u kojoj dotični softver obrađuje lične podatke.
+Da. GDPR zahtijeva da kontrolori podataka (kao što su organizacije i razvojni inženjeri koji koriste usluge na mreži  za velike kompanije od korporacije Microsoft) koriste samo obrađivače podataka (kao što je Microsoft) koji obrađuju lične podatke u ime kontrolora i pružaju dovoljno garancija za ispunjavanje ključnih zahtjeva GDPR-a. Microsoft je napravio proaktivni korak u ispunjavanju ovih obaveza prema svim kupcima usluga na mreži  za velike kompanije u sklopu njihovih ugovora o pretplati i ugovora o količinskoj licenci u sklopu njihovih ugovora za velike kompanije. Kupci drugih općenito dostupnih softvera za velike kompanije koje licencira Microsoft ili naša povezana društva mogu da koriste beneficije obaveza korporacije Microsoft prema GDPR-u, kako je i opisano u ovom obavještenju, do mjere do koje softver obrađuje lične podatke.
 
-**Gdje mogu pronaći Microsoftove ugovorne obaveze vezano za GDPR uredbu?**
+**Gdje mogu pronaći ugovorne obaveze korporacije Microsoft prema GDPR-u?**
 
-Microsoftove ugovorne obaveze vezano za GDPR uredbu možete pronaći u [Uslovima korištenja usluga na mreži](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.microsoftvolumelicensing.com%2FDocumentSearch.aspx%3FMode%3D3%26DocumentTypeId%3D46&data=04%7C01%7Ccolvog%40microsoft.com%7C4d7ac59082394bd57e5808d57b0e0368%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636550222480031404%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwifQ%3D%3D%7C-1&sdata=tbYN10WQtaVgss%2FPzHELXV2VDU8J20VP5bmzIydEZYA%3D&reserved=0) u kojima se navode Microsoftove obaveze u pogledu zaštite privatnosti i sigurnosti, odredbe za obradu podataka i GDPR odredbe za usluge za koje Microsoft pruža hosting, a na koje se korisnici pretplaćuju na osnovu ugovora o licenciranju. GDPR odredbe su date u prilogu 4 Uslova korištenja usluga na mreži, na kraju dokumenta, i njima se Microsoft obavezuje na ispunjavanje zahtjeva obrađivača podataka datih u članu 28 i drugim povezanim članovima GDPR uredbe. 
+Ugovorne obaveze korporacije Microsoft prema GDPR-u možete pronaći u [Dodatku o zaštiti podataka u okviru Online usluga](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=2&Keyword=DPA), koji sadrži obaveze u pogledu privatnosti i sigurnosti korporacije Microsoft, uslove obrade podataka i uslove prema GDPR-u za usluge koje hostuje Microsoft i za koje se korisnici pretplaćuju na osnovu ugovora o količinskom licenciranju. Ovi uslovi obavezuju Microsoft na zahtjeve za obrađivače podataka člana 28 GDPR-a i drugih relevantnih članova GDPR-a. 
 
-Microsoft proširuje područje primjene GDPR odredbi na sve korisnike opšte dostupnih korporativnih softverskih proizvoda za koje licencu pružamo mi ili naša povezana društva u skladu sa Odredbama licence Microsoft softvera, s datumom stupanja na snagu 25. maja 2018., neovisno o važećoj verziji korporativnog softvera, u mjeri u kojoj Microsoft ima ulogu obrađivača ili podobrađivača ličnih podataka povezanih sa takvim softverom i onoliko dugo koliko Microsoft ima u ponudi ili pruža podršku za dotičnu verziju. Detalji o pružanju podrške su dostupni u Microsoftovim Pravilima za životni ciklus proizvoda dostupnim na https://support.microsoft.com/en-us/lifecycle.
+Microsoft je obuhvatio Uslovima GDPR-a sve kupce općenito dostupnih softverskih proizvoda za velike kompanije koje smo mi licencirali ili naša povezana društva prema uslovima licence za softver korporacije Microsoft koji su stupili na snagu 25.maja 2018 bez obzira na važeće verzije softvera za velike kompanije do mjere da je Microsoft obrađivač ili podobrađivač ličnih podataka u vezi sa takvim softverom i sve dok Microsoft nastavlja da nudi ili pruža podršku za tu verziju. Detalje o podršci možete pronaći u Smjernicama za životni ciklus korporacije Microsoft https://support.microsoft.com/en-us/lifecycle.
 
-U svrhu potpunijeg razumijevanja, različite ili obimom manje obaveze se primjenjuju na beta i probnu verziju softvera, softver koji je materijalno izmijenjen te na svaki softver koji licencira Microsoft ili naša povezana društva, a koji nije opšte dostupan javnosti ili koji na drugi način ne podliježe licenciranju u skladu sa Odredbama licence Microsoft softvera. Pojedini proizvodi mogu po zadanoj vrijednosti prikupljati i slati Microsoftu telemetrijske i druge podatke pri čemu dokumentacija proizvoda pruža informacije i uputstva o načinu obustavljanja ili konfiguriranja takvog prikupljanja telemetrijskih podataka.
+Kako bi bilo jasnije, različite ili manje obaveze mogu se primjenjivati na beta ili predverzije softvera, softver koji je materijalno izmijenjen ili bilo koji softver koji je licencirao Microsoft ili naša povezana društva, a koji nije općenito dostupan javnosti ili u suprotnom nije licenciran prema uslovima licence za softver korporacije Microsoft. Neki proizvodi mogu da sakupljaju i šalju telemetriju ili druge podatke korporaciji Microsoft, i to zadano, a dokumentacija o proizvodu pruža informacije i programsku naredbu o tome kako isključiti ili konfigurisati takvo sakupljanje telemetrije.
 
-**Koje obaveze su sadržane u GDPR odredbama?**
+**Koje obaveze su navedene u uslovima GDPR-a?**
 
-Microsoftove GDPR odredbe odražavaju obaveze koje se zahtijevaju od obrađivača podataka u članu 28 GDPR uredbe.  Član 28 propisuje da obrađivači podataka preuzmu slijedeće obaveze:
+Uslovi GDPR-a za Microsoft ukazuju na obaveze koje obrađivači iz Člana 28 GDPR-a trebaju da ispune.  Član 28 zahtijeva od obrađivača da se obavežu da će:
 
--   koriste usluge podobrađivača isključivo uz pristanak rukovaoca podacima i nastave snositi odgovornost za podobrađivače;
--   obrađuju lične podatke u skladu sa uputstvima rukovaoca podacima, uključujući prenošenje podataka;
--   osiguraju da osobe koje obrađuju lične podatke preuzmu obavezu zaštite povjerljivosti;
--   primijene odgovarajuće tehničke i organizacione mjere u svrhu osiguranja nivoa zaštite sigurnosti ličnih podataka koja je proporcionalna rizicima;
--   pružaju pomoć rukovaocu podacima u njegovim obavezama da ispunjava zahtjeve vlasnika podataka za korištenje prava koja imaju u skladu sa GDPR uredbom;
--   ispunjavaju zahtjeve vezane za obavještavanje i podršku u slučaju kršenja GDPR odredbi;
--   pružaju pomoć rukovaocu podacima pri procjenama utjecaja zaštite podataka i konsultacijama sa nadzornim tijelima; 
--   izbrišu ili vrate lične podatke po završetku pružanja usluga i
--   podrže rukovaoca podacima sa dokazima o pridržavanju GDPR odredbi.
+-	koristiti podobrađivače samo uz saglasnost kontrolora i snositi odgovornost prema podobrađivačima;
+-	obrađivati lične podatke samo prema instrukcijama kontrolora, uključujući i one vezane za prijenose;
+-	osigurati da lica koja obrađuju lične podatke obavezuje povjerljivost;
+-	implementirati odgovarajuće tehničke i organizacione mjere kako bi se osigurao nivo sigurnosti ličnih podataka, a koji odgovara riziku;
+-	pomagati kontroloru u njegovim obavezama kako bi odgovorio na zahtjeve subjekta podataka da bi iskoristili svoje prava prema GDPR-u.
+-	ispuniti obavještenja o kršenju GDPR-a i zahtjeve za pomoć;
+-	pomoći kontroloru sa procjenom utjecaja na zaštitu podataka i konsultacije sa nadzornim organima; 
+-	izbrisati ili vratiti lične podatke na kraju pružanja usluga; i
+-	podržati kontrolora dokazom o usklađenost sa GDPR-om.
