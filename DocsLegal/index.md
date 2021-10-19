@@ -1,17 +1,24 @@
 ---
 title: Pravne informacije korporacije Microsoft
 description: Informacije korporacije Microsoft o uslovima korištenja, GDPR-u, informacije o zaštiti, odredbama licence, softveru, itd.
-ms.openlocfilehash: 5d9a8952437f6efb8b16aff17e2a1fe537819a15
-ms.sourcegitcommit: 6925c5b4ad2faff22d877acd2e07e09d289b5507
+author: GrantMeStrength
+ms.author: jken
+ms.prod: legal
+ms.topic: article
+ms.date: 11/25/2020
+ms.openlocfilehash: ca61babedc9df58569c63db0607711eda4a121d95a762575efe64018e97d7a0d
+ms.sourcegitcommit: 0584fd7cc06107cd26400dda9605dded5878c786
 ms.translationtype: HT
 ms.contentlocale: bs-Latn-BA
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "77570548"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "116417774"
 ---
 # <a name="microsoft-legal-resources-on-docsmicrosoftcom"></a>Pravni resursi korporacije Microsoft na Docs.microsoft.com
 
-U nastavku su linkovi na pravne resurse. 
+U nastavku su linkovi na pravne resurse.
 
 - [Opća uredba o zaštiti podataka (GDPR)](/legal/gdpr)
-- [Odredbe softverske licence](information-protection/software-license-terms)
+- [Uslovi licenciranja softvera](information-protection/software-license-terms.md)
 - [Uslovi korištenja](/legal/termsofuse)
+- [Pravila ponašanja Learn TV-a](/legal/learntv/codeofconduct)
+- [Uslovi dijeljenja podataka usluge Learn](/legal/learn/reporting/terms)
