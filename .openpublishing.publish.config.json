@@ -9,8 +9,14 @@
       "monikers": [],
       "moniker_ranges": [],
       "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
       "build_entry_point": "docs",
       "template_folder": "_themes",
+      "need_preview_pull_request": true,
       "version": 0
     },
     {
@@ -19,6 +25,11 @@
       "build_output_subfolder": "intune",
       "locale": "bs-Latn-BA",
       "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
       "build_entry_point": "docs",
       "template_folder": "_themes",
       "version": 0
@@ -53,5 +64,7 @@
   "branch_target_mapping": null,
   "need_generate_pdf_url_template": false,
   "need_generate_pdf": false,
-  "need_generate_intellisense": false
+  "need_generate_intellisense": false,
+  "targets": {},
+  "need_preview_pull_request": true
 }
