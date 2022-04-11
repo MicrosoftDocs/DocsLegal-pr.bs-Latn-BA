@@ -5,11 +5,11 @@ ms.topic: article
 ms.prod: legal
 layout: ContentPage
 ms.openlocfilehash: 91a5f1a3c93dbf5e50ab9842e63747fc9e443fe3
-ms.sourcegitcommit: 92176e791cecbf38ca4118125466148737f3e45f
+ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
 ms.translationtype: HT
 ms.contentlocale: bs-Latn-BA
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "129189086"
+ms.lasthandoff: 04/01/2022
+ms.locfileid: "141347006"
 ---
 # <a name="microsofts-gdpr-commitments-to-customers-of-our-generally-available-enterprise-software-products"></a>Obaveze korporacije Microsoft prema kupcima naših općenito dostupnih softverskih proizvoda za velike kompanije po osnovu GDPR-a
 
@@ -17,7 +17,7 @@ ms.locfileid: "129189086"
 
 Opća odredba o zaštiti podataka (GDPR) Evropske unije postavlja važne globalne zabrane kada su u pitanju prava na privatnost, sigurnost informacija i usklađenost. Korporacija Microsoft vjeruje da je privatnost fundamentalno pravo i da je GDPR važan korak naprijed u zaštiti i omogućavanju prava privatnosti pojedinaca.     
 
-Microsoft je posvećen svojoj vlastitoj usklađenosti sa GDPR-om kao i pružanju niza proizvoda, osobina, dokumentacije i resursa da bi naši kupci imali podršku kod ispunjavanja svojih obaveza vezanih za usklađenosti po osnovu GDPR-a. Slijedi opis ugovornih obaveza korporacije Microsoft prema svojim kupcima u pogledu ličnih podataka koja se prikupljaju putem poslovnog softvera. (Za softver licenciran u okviru programa komercijalnog licenciranja korporacije Microsoft, direktno pogledajte Dodatak o zaštiti podataka u okviru proizvoda i usluga korporacije Microsoft (DPA) na http://aka.ms/dpa)
+Microsoft je posvećen vlastitoj usklađenosti sa GDPR-om kao i pružanju niza proizvoda, osobina, dokumentacije i resursa da bi naši kupci imali podršku kod ispunjavanja svojih obaveza vezanih za usklađenosti po osnovu GDPR-a. Slijedi opis ugovornih obaveza korporacije Microsoft prema svojim kupcima u pogledu ličnih podataka koja se prikupljaju putem poslovnog softvera. (Za softver licenciran u okviru programa komercijalnog licenciranja korporacije Microsoft, direktno pogledajte Dodatak o zaštiti podataka u okviru proizvoda i usluga korporacije Microsoft (DPA) na http://aka.ms/dpa)
 
 **Da li Microsoft ispunjava obaveze prema svojim kupcima u vezi s GDPR-om?**
 
@@ -29,7 +29,7 @@ Microsoftove ugovorne obaveze u pogledu GDPR-a (Uslovi GDPR-a) možete potražit
 
 Microsoft je obuhvatio Uslovima GDPR-a sve kupce općenito dostupnih softverskih proizvoda za velike kompanije koje smo mi licencirali ili naša povezana društva prema uslovima licence za softver korporacije Microsoft koji su stupili na snagu 25. maja 2018. bez obzira na važeće verzije softvera za velike kompanije do mjere da je Microsoft obrađivač ili podobrađivač ličnih podataka u vezi sa takvim softverom i sve dok Microsoft nastavlja da nudi ili pruža podršku za tu verziju. Dodatne detalje možete pronaći u Smjernicama za životni ciklus korporacije Microsoft na https://support.microsoft.com/lifecycle.
 
-Kako bi bilo jasnije, različite ili manje obaveze mogu se primjenjivati na beta ili predverzije softvera, softver koji je materijalno izmijenjen ili bilo koji softver koji je licencirao Microsoft ili naša povezana društva, a koji nije općenito dostupan javnosti ili u suprotnom nije licenciran prema uslovima licence za softver korporacije Microsoft. Neki proizvodi mogu da sakupljaju i šalju telemetriju ili druge podatke korporaciji Microsoft, i to zadano, a dokumentacija o proizvodu pruža informacije i programsku naredbu o tome kako isključiti ili konfigurisati takvo sakupljanje telemetrije.
+Kako bi bilo jasnije, različite ili manje obaveze mogu se primjenjivati na beta ili predverzije softvera, softver koji je materijalno izmijenjen ili bilo koji softver koji je licencirao Microsoft ili naša povezana društva, a koji nije općenito dostupan javnosti ili u suprotnom nije licenciran prema uslovima licence za softver korporacije Microsoft. Neki proizvodi mogu da sakupljaju i šalju telemetriju ili druge podatke korporaciji Microsoft, i to zadano, a dokumentacija o proizvodu pruža informacije i programsku naredbu o tome kako isključiti ili konfigurirati takvo sakupljanje telemetrije.
 
 **Koje obaveze su navedene u uslovima GDPR-a?**
 
