@@ -1,31 +1,26 @@
 ---
+# required metadata
 title: Uslovi korištenja
-description: Uslovi korištenja za dokumentaciju na docs.microsoft.com.
-keywords: ''
-author: ''
-manager: ''
-ms.date: 09/19/2018
+description: Uslovi za korištenje za dokumentaciju na web-lokaciji learn.microsoft.com.
+keywords: null
+author: null
+manager: null
+ms.date: 09/17/2022
 ms.topic: article
 ms.prod: legal
-ms.technology: ''
+ms.technology: null
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
-ms.openlocfilehash: 904b079bf9580699105e1f73836cb8f1127c101f
-ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
-ms.translationtype: HT
-ms.contentlocale: bs-Latn-BA
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "141347024"
 ---
-# <a name="docsmicrosoftcom---terms-of-use"></a>docs.microsoft.com - Uslovi korištenja
+# <a name="learnmicrosoftcom---terms-of-use"></a>learn.microsoft.com - Uslovi za korištenje
 
 ## <a name="acceptance-of-terms"></a>Prihvatanje uslova
 
-Sljedeći Uslovi korištenja („Uslovi”) se primjenjuju na vaše korištenje web lokacije za Microsoft dokumente ([https://docs.microsoft.com](https://docs.microsoft.com)), tehnički profil ([https://techprofile.microsoft.com](https://techprofile.microsoft.com)) i sve prateće usluge. Microsoft zadržava pravo da bilo kada ažurira ove Uslove bez slanja obavještenja. Najnovija verzija Uslova se može pogledati tako što kliknete na link hiperteksta” Uslovi korištenja” koji se nalazi na dnu naših web stranica.
+Sljedeći Uslovi za korištenje („TOU“) odnose se na vaše korištenje web-lokacije usluge Microsoft Learn ([https://learn.microsoft.com](https://learn.microsoft.com)), Tehnološkog profila i svih povezanih usluga. Microsoft zadržava pravo da bilo kada ažurira ove Uslove bez slanja obavještenja. Najnovija verzija Uslova se može pogledati tako što kliknete na link hiperteksta” Uslovi korištenja” koji se nalazi na dnu naših web stranica.
 
 ## <a name="description-of-service"></a>Opis usluge
 
-Microsoft vam pruža pristup raznim resursima preko web lokacije za dokumenta Microsofta, tehničkog profila i pratećih usluga, uključujući interaktivna uputstva za učenje, dokumentaciju, video materijale, alate za razvojne inženjere, zone za preuzimanje, komunikacijske forume i informacije o proizvodima (kolektivno nazvane “Usluge”). Usluge uključujući bilo koja ažuriranja, poboljšanja, nove funkcije i/ili dodavanje novih web svojstava podliježu Uslovima.
+Putem web-lokacije usluge Microsoft Learn, Tehnološkog profila i povezanih usluga Microsoft vam omogućava pristup do raznovrsnih resursa koji obuhvataju interaktivne praktične vodiče za obuku, dokumentaciju, videozapise, alate za razvojne inženjere, odjeljke za preuzimanje sadržaja, forume za komunikaciju i informacije o proizvodima (zajedničkim nazivom „Usluge“). Usluge uključujući bilo koja ažuriranja, poboljšanja, nove funkcije i/ili dodavanje novih web svojstava podliježu Uslovima.
 
 ## <a name="personal-and-non-commercial-use-limitation"></a>Lična i nekomercijalna ograničenja upotrebe
 
@@ -35,7 +30,7 @@ Osim ako nije drugačije navedeno, Usluge su za vašu ličnu i nekomercijalnu up
 
 Vaša privatnost nam je važna. Pročitajte [Izjavu o privatnosti korporacije Microsoft](https://privacy.microsoft.com/privacystatement) („Izjava o privatnosti”) jer opisuje vrste podataka koje prikupljamo od vas i vaših uređaja, kako koristimo te podatke kao i pravne osnove za obradu tih podataka. Također, izjava o privatnosti opisuje i kako Microsoft koristi Poslani materijal (onako kako je definisano ovdje), komentare, ocjene ili preglede Usluga, komunikacije, fajlove, fotografije, dokumenta, audio i digitalne radove, prijenose uživo, video materijale i bilo koji drugi sadržaj koji vi transferirate, pohranite, prikažete ili dijelite putem Usluga (kolektivno “Vaš sadržaj”). Kada je obrada zasnovana na pristanku i u mjeri u kojoj je to dopušteno zakonom, prihvаtаnjеm оvih Uslоvа pristајеtе nа tо dа Microsoft prikuplја, kоristi i оtkrivа vаš sаdržај i pоdаtkе nа nаčin оpisаn u Izјаvi о privаtnоsti. U nekim slučajevima dajemo posebno obavještenje i tražimo vaš pristanak, kako je navedeno u Izjavi o privatnosti.
 
-**Javne korisničke informacije i sadržaj**: Drugi mogu pogledati korisničke informacije koje pružite (uključujući korisničko ime, ime za prikazivanje, avatar sliku, biografiju, vaše zvanje i organizaciju te vaša postignuća kao korisnika). Vi samo trebate da pružite korisničko ime i ime za prikazivanje kako bi koristili tehnički profil. Sva druga polja su opciona. Možete bilo kada ažurirati svoje korisničko ime i ime za prikazivanje. Microsoft može i da sakuplja i javno prikaže datum kada ste se registrovali na tehnički profil i vašu povezanost sa korporacijom Microsoft.
+**Javne korisničke informacije i sadržaj**: korisničke informacije koje saopćavate (uključujući korisničko ime, ime za prikaz, sliku avatara, biografiju, naziv radnog mjesta i organizaciju, kao i korisnička postignuća) mogu pregledati druge osobe. Vi samo trebate da pružite korisničko ime i ime za prikazivanje kako bi koristili tehnički profil. Sva druga polja su opciona. Možete bilo kada ažurirati svoje korisničko ime i ime za prikazivanje. Microsoft može i da sakuplja i javno prikaže datum kada ste se registrovali na tehnički profil i vašu povezanost sa korporacijom Microsoft.
 
 Bilo koji sadržaj koji javno postavite mogu i drugi pogledati. Možda ćete moći izbrisati određene vrste sadržaja nakon što su objavljene, ali ne mogu se sve vrste sadržaja izbrisati nakon što se javno objave. 
 
@@ -70,17 +65,17 @@ NI U KOM SLUČAJU MICROSOFT I/ILI NJEGOVI ODREĐENI DOBAVLJAČI NE SNOSE ODGOVOR
 
 Možda će vam trebati Microsoft račun, račun na usluzi Active Directory ili račun tehničkog profila kako bi pristupili nekim uslugama.
 
-**Microsoft rаčun**. Microsoft rаčun vаm оmоgućаvа dа sе priјаvlјuјеtе u prоizvоdе, nа wеb lоkаciје i uslugе kоје pružа Microsoft i nеki Microsoft pаrtnеri. Моžеtе kreirati Microsoft rаčun tаkо štо ćеtе sе registrirati [na mreži](https://signup.live.com/). Microsoft računi su podložni [Ugоvоru kоmpаniје Microsoft о pružаnju uslugа](https://www.microsoft.com/servicesagreement/).
+**Microsoft rаčun**. Microsoft rаčun vаm оmоgućаvа dа sе priјаvlјuјеtе u prоizvоdе, nа wеb lоkаciје i uslugе kоје pružа Microsoft i nеki Microsoft pаrtnеri. Моžеtе [kreirati Microsoft rаčun tаkо štо ćеtе sе registrirati na mreži](https://signup.live.com/). Microsoft računi su podložni [Ugоvоru kоmpаniје Microsoft о pružаnju uslugа](https://www.microsoft.com/servicesagreement/).
 
-**Račun na usluzi Azure Active Directory**. Preko organizacije kojoj pripadate možete otvoriti račun kod korporacije Microsoft. Molimo da kontaktirate administratora svoje organizacije za više informacija o ovom računu.
+**Račun za Azure Active Directory**. Preko organizacije kojoj pripadate možete otvoriti račun kod korporacije Microsoft. Molimo da kontaktirate administratora svoje organizacije za više informacija o ovom računu.
 
-**Račun tehničkog profila**. Vaš račun tehničkog profila vam dopušta da se prijavite na web lokaciju za dokumenta korporacije Microsoft i koristite prateće usluge, uključujući slobodan pristup resursima učenja, deblokiranje postignuća, ocjene, komentarisanje, postavljanje sadržaja i korištenje drugih interkativnih usluga. Račun tehničkog profila možete kreirati tako što ćete kreirate korisničko ime na [tehničkom profilu](https://techprofile.microsoft.com/) nakon prijave s Microsoft računom ili računom na usluzi Active Directory.
+**Račun tehničkog profila**. Račun za Tehnološki profil vam omogućava da se prijavite na web-lokaciju usluge Microsoft Learn i koristite povezane usluge, uključujući besplatni pristup resursima za obuku, deblokiranje postignuća, ocjenjivanje, komentiranje, objavljivanje sadržaja i korištenje drugih interaktivnih usluga. Račun tehničkog profila možete kreirati tako što ćete kreirate korisničko ime na tehničkom profilu nakon prijave s Microsoft računom ili računom na usluzi Active Directory.
 
 Prihvаtаtе dа prilikоm prijave na račun tehničkog profila nеćеtе kоristiti lаžnе, nеtаčnе niti оbmаnjuјućе infоrmаciје. U potpunosti ste odgovorni za održavanje povjerljivosti vaše lozinke i računa. Nadalje, u potpunosti ste odgovorni za bilo koje i sve aktivnosti koje nastaju na vašem računu. Pristajete da odmah obavijestite Microsoft o bilo kojoj neovlaštenoj upotrebi vašeg računa ili bilo kojem drugom kršenju sigurnosti. Microsoft ne snosi odgovornost za bilo kakav gubitak koji može nastati kada neko drugi koristi lozinku ili račun, bilo sa ili bez vašeg znanja. Međutim, za načinjene gubitke Microsoft ili druga strana vas mogu smatrati odgovornim jer je neko drugi koristio vaš račun ili lozinku. Nikada ne smijete koristiti račun nekog drugog bez dozvole vlasnika računa.
 
 Аkо krеirаtе račun tehničkog profila u imе nеke pravne osobe, kао štо је vаšе prеduzеćе ili pоslоdаvаc, izјаvlјuјеtе dа pо zаkоnu imаtе оvlаštеnjе dа оbаvеžеtе tu osobu оvim Uslovima. Nе mоžеtе prenijeti podatke sa računa tehničkog profila nа nеkоg drugоg kоrisnikа ili prаvnо licе. Dа bistе zаštitili rаčun, nе оtkrivајtе dеtаlје rаčunа drugimа. Vi stе оdgоvоrni zа svе аktivnоsti kоје sе оdviјајu u оkviru vаšеg račun tehničkog profila.
 
-Svoj račun tehničkog profila možete zatvoriti tako pristupanjem postavkama računa [tehničkog profila](https://techprofile.microsoft.com/edit/) koje se nalaze ovdje.
+Račun za Tehnološki profil možete zatvoriti pomoću postavki za račun za Tehnološki profil.
 
 ## <a name="no-unlawful-or-prohibited-use"></a>Nije dozvoljena nezakonita ili zabranjena upotreba.
 
