@@ -6,27 +6,27 @@ keywords: null
 author: null
 manager: null
 ms.date: 09/17/2022
-ms.topic: article
+ms.topic: legal
 ms.prod: legal
 ms.technology: null
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
 ---
-# <a name="learnmicrosoftcom---terms-of-use"></a>learn.microsoft.com - Uslovi za korištenje
+# learn.microsoft.com - Uslovi za korištenje
 
-## <a name="acceptance-of-terms"></a>Prihvatanje uslova
+## Prihvatanje uslova
 
 Sljedeći Uslovi za korištenje („TOU“) odnose se na vaše korištenje web-lokacije usluge Microsoft Learn ([https://learn.microsoft.com](https://learn.microsoft.com)), Tehnološkog profila i svih povezanih usluga. Microsoft zadržava pravo da bilo kada ažurira ove Uslove bez slanja obavještenja. Najnovija verzija Uslova se može pogledati tako što kliknete na link hiperteksta” Uslovi korištenja” koji se nalazi na dnu naših web stranica.
 
-## <a name="description-of-service"></a>Opis usluge
+## Opis usluge
 
 Putem web-lokacije usluge Microsoft Learn, Tehnološkog profila i povezanih usluga Microsoft vam omogućava pristup do raznovrsnih resursa koji obuhvataju interaktivne praktične vodiče za obuku, dokumentaciju, videozapise, alate za razvojne inženjere, odjeljke za preuzimanje sadržaja, forume za komunikaciju i informacije o proizvodima (zajedničkim nazivom „Usluge“). Usluge uključujući bilo koja ažuriranja, poboljšanja, nove funkcije i/ili dodavanje novih web svojstava podliježu Uslovima.
 
-## <a name="personal-and-non-commercial-use-limitation"></a>Lična i nekomercijalna ograničenja upotrebe
+## Lična i nekomercijalna ograničenja upotrebe
 
 Osim ako nije drugačije navedeno, Usluge su za vašu ličnu i nekomercijalnu upotrebu. Ne smijete mijenjati, kopirati, distribuirati, prenositi, javno objaviti, izvoditi, reprodukovati, postaviti, licencirati kreativne izvedene radove, prenositi ili prodavati bilo koje informacije, softver, proizvode ili usluge dobijene iz Usluga (osim za vlastitu, ličnu, nekomercijalnu upotrebu) bez prethodnog pismenog pristanka korporacije Microsoft.
 
-## <a name="privacy-and-protection-of-personal-information"></a>Privatnost i zaštita ličnih podataka.
+## Privatnost i zaštita ličnih podataka.
 
 Vaša privatnost nam je važna. Pročitajte [Izjavu o privatnosti korporacije Microsoft](https://privacy.microsoft.com/privacystatement) („Izjava o privatnosti”) jer opisuje vrste podataka koje prikupljamo od vas i vaših uređaja, kako koristimo te podatke kao i pravne osnove za obradu tih podataka. Također, izjava o privatnosti opisuje i kako Microsoft koristi Poslani materijal (onako kako je definisano ovdje), komentare, ocjene ili preglede Usluga, komunikacije, fajlove, fotografije, dokumenta, audio i digitalne radove, prijenose uživo, video materijale i bilo koji drugi sadržaj koji vi transferirate, pohranite, prikažete ili dijelite putem Usluga (kolektivno “Vaš sadržaj”). Kada je obrada zasnovana na pristanku i u mjeri u kojoj je to dopušteno zakonom, prihvаtаnjеm оvih Uslоvа pristајеtе nа tо dа Microsoft prikuplја, kоristi i оtkrivа vаš sаdržај i pоdаtkе nа nаčin оpisаn u Izјаvi о privаtnоsti. U nekim slučajevima dajemo posebno obavještenje i tražimo vaš pristanak, kako je navedeno u Izjavi o privatnosti.
 
@@ -34,7 +34,7 @@ Vaša privatnost nam je važna. Pročitajte [Izjavu o privatnosti korporacije Mi
 
 Bilo koji sadržaj koji javno postavite mogu i drugi pogledati. Možda ćete moći izbrisati određene vrste sadržaja nakon što su objavljene, ali ne mogu se sve vrste sadržaja izbrisati nakon što se javno objave. 
 
-## <a name="notice-specific-to-software-available-on-this-website"></a>Obavještenje specifično za softver dostupan na ovoj web lokaciji
+## Obavještenje specifično za softver dostupan na ovoj web lokaciji
 
 Bilo koji softver koji je dostupan za preuzimanje sa Usluga (“Sofvter”) je rad korporacije Microsoft i/ili njenih dobavljača koji je zaštićen autorskim pravom. Uslovi ugovora o licenci sa krajnjim korisnikom, ako postoji, uređuju korištenje ovog softvera, a takvi uslovi prate ili su uključeni u softver (“Ugovor o licenci”). Krajnji korisnik neće moći instalirati bilo koji softver koji prati ili je uključen u Ugovor o licenci, osim ako on/ona prvo ne pristane na uslove Ugovora o licenci. Licеncu zа skriptе ili kôd trеćе strane dо kојih vоdе linkovi ili nа kоје upućuјu rеfеrеncе sа wеb lоkаciје dоbiјаtе оd trеćih osoba kојe su vlаsnici tоg kоdа, а nе оd kоrpоrаciје Microsoft.
 
@@ -46,14 +46,14 @@ SOFTVER JE POD GARANCIJOM, AKO UOPŠTE JESTE, SAMO U SKLADU SA OVIM UGOVOROM O L
 
 LEGENDA OGRANIČENIH PRAVA. Svaki softver koji je preuzet s Usluga za ili u ime Sjedinjenih Američkih Država, njenih agencija i/ili instrumenata („Vlada SAD”) pruža se uz ograničena prava. Korištenje, umnožavanje ili otkrivanje od strane Vlade SAD-a podliježe ograničenjima kako je definirano u podstavu (c) (1)(ii) prava u tehničkim podacima i klauzuli o kompjuterskom softveru na DFARS 252.227-7013 ili podstavovima (c)(1) i (2) komercijalnog kompjuterskog softvera- ograničenim pravima u klauzuli 48 CFR 52.227-19, prema potrebi. Microsoft Corporation je proizvođač, One Microsoft Way, Redmond, WA 98052-6399.
 
-## <a name="notice-specific-to-documents-available-on-this-website"></a>Obavještenje specifično za dokumenta dostupna na ovoj web lokaciji
+## Obavještenje specifično za dokumenta dostupna na ovoj web lokaciji
 
 Određena dokumentacija može da podliježe eksplicitnim odredbama licence koje su odvojene od uslova sadržanih ovdje. Do mjere do koje se uslovi sukobljavaju, eksplicitne odredbe licence se koriste za kontrolu.
 Dozvola za korištenje dokumenata (kao što su tehnička dokumentacija, saopštenja za medije, list s podacima i FAQ-često postavljena pitanja) iz usluga je data, pod uslovom da (1) obavještenje o zaštiti autorskog prava u nastavku se pojavljuje u svim kopijama te obavještenje o zaštiti autorskog prava i ova dozvola se također pojavljuju, (2) korištenje takvih dokumenata iz usluga je samo za informativno i nekomercijalno ili lično korištenje i ne smije se kopirati ili objaviti na bilo kojoj računarskoj mreži ili prikazati u bilo kojim medijima i (3) ne vrše se nikakve izmjene u bilo kojoj dokumentaciji. Akreditovane obrazovne institucije, kao što su K-12, univerziteti, privatni/javni fakulteti i državni centri za više obrazvoanje mogu preuzeti i reprodukovati dokumenta za distribuciju u učionici. Za distribuciju izvan učionice potrebna je izričita pismena dozvola. Korištenje u bilo koje druge svrhe je izričito zakonom zabranjeno i može rezultirati ozbiljnim građanskim i krivičnim kaznama. Prekršitelji će biti krivično gonjeni do najveće moguće mjere.
 
 Gore navedeni dokumenti ne uključuju dizajn ili izgled web lokacije Microsoft.com ili bilo koje drugo mjesto u vlasništvu korporacije Microsoft, ili njime upravlja ili ga kontroliše Microsoft. Elementi web lokacije korporacije Microsoft su zaštićeni ukupnom predodžbom o izledu, zaštitnim znakom i drugim zakonima i ne smiju se kopirati ili oponašati u potpunosti ili djelomično. Zabranjeno je kopirati ili ponovo prebacivati logotip, grafiku, zvuk ili sliku sa bilo koje web lokacije korporacije Microsoft osim ako to Microsoft izričito ne odobri.
 
-## <a name="disclaimer-and-limitation-of-liability-for-the-services"></a>Odricanje i ograničenje odgovornosti za usluge
+## Odricanje i ograničenje odgovornosti za usluge
 
 MICROSOFT I/ILI NJEGOVI ODREĐENI DOBAVLJAČI NE IZJAVLJUJU DA SU USLUGE ILI INFORMACIJE SADRŽANE U DOKUMENTIMA I SRODNOJ GRAFICI KOJE SU OBJAVLJENE KAO DIO USLUGA PRIKLADNE ZA BILO KOJU SVRHU.  SVE USLUGE, DOKUMENTI I SRODNA GRAFIKA SU PRUŽENI NA OSNOVI „ONAKVI KAKVI JESU“ BEZ BILO KAKVE GARANCIJE. MICROSOFT I/ILI NJEGOVI ODREĐENI DOBAVLJAČI OVIM PUTEM SE ODRIČU SVIH GARANCIJA I USLOVA VEZANIH ZA USLUGE, INFORMACIJE I SRODNU GRAFIKU, UKLJUČUJUĆI SVE GARANCIJE I USLOVE ZA PRIKLADNOST ZA PRODAJU, BILO IZRIČITE, PODRAZUMIJEVANE ILI ZAKONSKE, PODOBNOST ZA ODREĐENU SVRHU, PRAVO ILI NEKRŠENJE. NI U KOM SLUČAJU MICROSOFT I/ILI NJEGOVI ODREĐENI DOBAVLJAČI NE SNOSE ODGOVORNOST ZA BILO KOJE POSEBNE, INDIREKTNE ILI POSLJEDIČNE ŠTETE ILI BILO KOJE ŠTETE KOJE SU REZULTAT GUBITKA KORIŠTENJA, PODATAKA ILI PROFITA, BILO PUTEM UGOVORNE RADNJE, NEMARA ILI DRUGIH ŠTETNIH RADNJI KOJE PROIZILAZE IZ ILI U VEZI SA USLUGAMA, UKLJUČUJUĆI KORIŠTENJE ILI UČINAK INFORMACIJA DOSTUPNIH U USLUGAMA.
 
@@ -61,7 +61,7 @@ DOKUMENTI I SRODNA GRAFIKA OBJAVLJENI U USLUGAMA MOGU UKLJUČIVATI TEHNIČKE NET
 
 NI U KOM SLUČAJU MICROSOFT I/ILI NJEGOVI ODREĐENI DOBAVLJAČI NE SNOSE ODGOVORNOST ZA BILO KOJE POSEBNE, INDIREKTNE ILI POSLJEDIČNE ŠTETE ILI BILO KOJE ŠTETE KOJE SU REZULTAT GUBITKA KORIŠTENJA, PODATAKA ILI PROFITA, BILO PUTEM UGOVORNE RADNJE, NEMARA ILI DRUGIH ŠTETNIH RADNJI KOJE PROIZILAZE IZ ILI U VEZI SA KORIŠTENJEM ILI IZVRŠENJEM USLUGA, SOFTVERA, DOKUMENATA, PRUŽANJA ILI NEMOGUĆNOSTI DA SE PRUŽE USLUGE ILI INFORMACIJE DOSTUPNE U USLUGAMA.
 
-## <a name="tech-profile-account-password-and-security"></a>Račun tehničkog profila, lozinka i sigurnost
+## Račun tehničkog profila, lozinka i sigurnost
 
 Možda će vam trebati Microsoft račun, račun na usluzi Active Directory ili račun tehničkog profila kako bi pristupili nekim uslugama.
 
@@ -77,11 +77,11 @@ Prihvаtаtе dа prilikоm prijave na račun tehničkog profila nеćеtе kоr
 
 Račun za Tehnološki profil možete zatvoriti pomoću postavki za račun za Tehnološki profil.
 
-## <a name="no-unlawful-or-prohibited-use"></a>Nije dozvoljena nezakonita ili zabranjena upotreba.
+## Nije dozvoljena nezakonita ili zabranjena upotreba.
 
 Kao uslov za korištenje usluga nećete koristiti usluge u bilo koje svrhe koje su nezakonite ili zabranjene ovim odredbama, uslovima i obavještenjima. Usluge ne možete koristiti ni na koji način kojim se može oštetiti, onemogućiti, preopteretiti ili onesposobiti bilo koji server korporacije Microsoft ili mreža koja je povezana s bilo kojim serverom kompanije Microsoft ili ometati drugog u korištenju i uživanju u bilo kojim Uslugama. Ne dozvoljava se korištenje hakiranja, otkrivanje lozinke ili bilo kojeg drugog načina kojim se pokušava ostvariti neovlašteni pristup uslugama, drugim računima, računarskim sistemima ili mrežama koje su povezane s bilo kojim serverom kompanije Microsoft ili uslugama. Ne dozvoljava se nabavka ili pokušaj nabavke materijala ili informacija na način koji nije namjenski omogućen putem usluga.
 
-## <a name="use-of-services"></a>Korištenje usluga
+## Korištenje usluga
 
 Usluge mogu sadržavati usluge e-pošte, usluge oglasne table, zone za razgovor, grupe za vijesti, forume, zajednice, lične web stranice, kalendare, fotoalbume, ormare za fajlove i/ili druge poruke ili komunikacije dizajnirane da vam omoguće komunikaciju sa drugima.  Saglasni ste da koristite Usluge samo da biste objavljivali, slali i primali poruke i materijal koji su prikladni, gdje je primjenjivo, a koji su vezani za određenu uslugu. Na primjer i ne kao ograničenje saglasni ste kada koristite usluge da nećete: 
 
@@ -111,7 +111,7 @@ Materijali transferirani u usluge mogu biti predmet utvrđenih ograničenja u ko
 
 Video materijali i eknjige mogu biti samo na engleskom jeziku.  Ako kliknete na linkove, možete biti preusmjereni na web lokaciju SAD-a čiji je sadržaj isključivo na engleskom jeziku. 
 
-## <a name="materials-provided-to-microsoft-or-posted-to-the-services"></a>Materijali pruženi korporaciji Microsoft ili objavljeni u Uslugama
+## Materijali pruženi korporaciji Microsoft ili objavljeni u Uslugama
 
 Microsoft ne potražuje vlasništvo nad materijalima koje pružate kompaniji Microsoft (uključujući povratne informacije i prijedloge) ili objavljujete, transferirate, unosite ili šaljete u Usluge ili povezane usluge na pregled od strane opšte javnosti ili članova javne ili privatne zajednice (zasebno „Poslani materijal" i kolektivno „Poslani materijali"). Ipak, objavljivanjem, otpremanjem, unosom, pružanjem ili slanjem („Objava”) svojih materijala, dajete pravo korporaciji Microsoft, njenim filiјаlаmа i potrebnim podlicenciranim kompanijama dozvolu da koriste vaš poslani materijal u njihovom internetskom poslovanju (uključujući bez ograničenja, sve usluge korporacije Microsoft), uključujući, bez ograničenja, licencna prava na: kopiranje, distribuciju, prijenos, javno prikazivanje, javno izvršenje, reprodukciju, izmjene, prevođenje i reformatiranje vašeg poslanog materijala; da objavi vaše ime vezano za vaš poslani materijal; te pravo na podlicenciranje tih prava na dobavljača Usluga.
 
@@ -121,16 +121,16 @@ Objavom poslanog materijala garantujete i izjavljujete da posjedujete ili na dru
 
 Pored garancije i izjave datih gore, objavom poslanog materijala koji sadrži slike, fotografije, snimke ili koji su na drugi način u potpunosti ili djelomično grafički prikazani („Slike“) garantujete i izjavljujete da (a) ste vlasnik autorskih prava nad takvim slikama ili da vam je vlasnik autorskih prava nad slikama dao dozvolu da koristite takve slike ili sadržaj i/ili slike sadržane u takvim Slikama u skladu sa načinom i svrhom vašeg korištenja i kako inače dozvoljavaju ovi Uslovi korištenja i usluge, b) imate prava neophodna da se dodijele licence i podlicence opisane u ovim Uslovima korištenja i (c) da svaka osoba prikazana na slikama, ako postoji, je dala pristanak za korištenje slika kako je utvrđeno u ovim Uslovima korištenja, uključujući naprimjer, između ostalog, distribuciju, javno prikazivanje i reprodukciju takvih slika. Objavom slika, dajete (a) svim članovima vaše privatne zajednice (za svaku takvu sliku dostupnu članovima privatne zajednice), i/ili (b) opštoj javnosti (za svaku takvu Sliku dostupnu bilo gdje u Uslugama), mimo privatne zajednice, dozvolu da koriste vaše slike u vezi s korištenjem, kako je dozvoljeno ovim Uslovima korištenja iz bilo kojih Usluga (uključujući naprimjer, a ne kao ograničenje, štampanje slika i poklon predmeta koji uključuju takve Slike) i uključujući bez ograničenja, neekskluzivnu, svjetsku, licencnu naknadu za: kopiranje, distribuciju, prijenos, javno prikazivanje, javno izvršenje, reprodukciju, uređivanje, prevođenje i reformatiranje vaših slika bez vašeg imena prikazanog na slikama i pravo na podlicenciranje takvih prava bilo kojem dobavljaču Usluga. Licence odobrene u prethodnim rečenicama za Slike se ukidaju u vrijeme kada u potpunosti uklonite takve Slike iz Usluga, pod uslovom da takav raskid ne utječe na licence odobrene u vezi sa takvim Slikama prije nego što u potpunosti uklonite slike. U pogledu korištenja vašeg Poslanog materijala, neće se plaćati nikakva nadoknada.
 
-## <a name="notices-and-procedure-for-making-claims-of-copyright-infringement"></a>Obavještenja i procedura za podnošenje pritužbi na kršenje autorskog prava 
+## Obavještenja i procedura za podnošenje pritužbi na kršenje autorskog prava 
 
 U skladu sa članom 17, Zakona Sjedinjenih Država, odjeljak 512(c)(2)obavještenja o kršenju autorskog prava treba slati imenovanom agentu davaoca usluga.  NEĆEMO ODGOVORITI NA UPITE KOJI SE NE ODNOSE NA OVAJ POSTUPAK.
 Pogledati [Obavještenje i proceduru za podnošenje pritužbi na kršenje autorskog prava](https://www.microsoft.com/info/cpyrtinfrg.aspx).
 
-## <a name="links-to-third-party-sites"></a>Veze na lokacije trećih lica
+## Veze na lokacije trećih lica
 
 VEZE U OVOJ USLUZI VAM MOGU DOZVOLITI DA NAPUSTITE WEB LOKACIJU KORPORACIJE MISROSOFT. Te povezane lokacije ne kontroliše Microsoft, te Microsoft nije odgovoran za sadržaj bilo koje povezane lokacije ili vezu u kojoj se nalazi povezana lokacija niti bilo kakve izmjene ili ažuriranja bilo kojih povezanih lokacija. Microsoft nije odgovoran za webcasting niti bilo koji drugi oblik prijenosa koji dobijete od bilo koje povezane lokacije. Microsoft vam ove veze pruža samo kao pogodnost, a sadržavanje bilo koje veze ne podrazumijeva da Microsoft odobrava tu lokaciju.
 
-## <a name="unsolicited-idea-submission-policy-reservation-of-rights-and-feedback"></a>Pravila podnošenja netraženih ideja, zadržavanje prava i povratne informacije 
+## Pravila podnošenja netraženih ideja, zadržavanje prava i povratne informacije 
 
 MICROSOFT ILI BILO KOJI NJEGOVI ZAPOSLENICI NE PRIHVATAJU ILI NE RAZMATRAJU NETRAŽENE IDEJE, UKLJUČUJUĆI IDEJE ZA NOVE KAMPANJE OGLAŠAVANJA, NOVE PROMOCIJE, NOVE PROIZVODE ILI TEHNOLOGIJE, PROCESE, MATERIJALE, MARKETINŠKE PLANOVE ILI NAZIVE NOVIH PROIZVODA. MOLIMO DA NE ŠALJETE BILO KAKVE ORIGINALNE KREATIVNE UMJETNIČKE RADOVE, UZORKE, DEMO MATERIJALE ILI DRUGE RADOVE. ISKLJUČIVA SVRHA OVIH PRAVILA JE IZBJEGAVANJE POTENCIJALNIH NESPORAZUMA ILI SPOROVA KADA PROIZVODI KORPORACIJE MICROSOFT ILI MARKETINŠKE STRATEGIJE MOGU BITI SLIČNI IDEJAMA POSLANIM KORPORACIJI. STOGA, MOLIMO DA KORPORACIJI MICROSOFT ILI BILO KOME U KORPORACIJI NE ŠALJETE SVOJE NETRAŽENE IDEJE. AKO POŠALJETE SVOJE IDEJE I MATERIJALE UPRKOS NAŠEM ZAHTJEVU DA NE ŠALJETE, MOLIMO DA RAZUMIJETE DA MICROSOFT NE DAJE GARANCIJE DA ĆE SE VAŠE IDEJE I MATERIJALI TRETIRATI POVJERLJIVIM ILI VLASNIČKIM.
 
