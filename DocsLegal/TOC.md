@@ -1,10 +1,10 @@
 
-# <a name="general-data-protection-regulation-gdpr"></a>[Opća uredba o zaštiti podataka (GDPR)](gdpr.md)
-# <a name="azure-software-licensing-terms"></a>[Odredbe softverske licence za Azure](/legal/information-protection/software-license-terms)
-# <a name="microsoft-developer-agreement"></a>[Ugovor za Microsoftove razvojne inženjere](MDSA.md)
-# <a name="terms-of-use"></a>[Uslovi korištenja](/legal/termsofuse)
-# <a name="learn-tv-code-of-conduct"></a>[Kodeks ponašanja za Learn TV](/legal/learntv/codeofconduct)
-# <a name="terms-of-learn-data-sharing"></a>[Uslovi za dijeljenje podataka na usluzi Learn](/legal/learn/reporting/terms)
+# [Opća uredba o zaštiti podataka (GDPR)](gdpr.md)
+# [Odredbe za licenciranje softvera Azure](/legal/information-protection/software-license-terms)
+# [Ugovor za razvojne inženjere kompanije Microsoft](MDSA.md)
+# [Uslovi za korištenje](/legal/termsofuse)
+# [Kodeks ponašanja za Learn TV](/legal/learntv/codeofconduct)
+# [Uslovi za dijeljenje podataka na usluzi Learn](/legal/learn/reporting/terms)
 
 <!--## [Basque](software-license-terms-eu-es.md) -->
 <!--## [Bulgarian](software-license-terms-bg-bg.md) -->
